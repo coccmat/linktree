@@ -1,0 +1,67 @@
+body {
+  background-image: url("beckground1.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+  
+}
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+.pill-nav a {
+    background-color:  #ffc400;;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    color: black;
+    padding: 20px 100px;
+    font-family: 'Allerta';
+    font-weight: 900;
+    font-size: 22px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+.social{
+    font-size:36px;
+    color: #ffc400;
+    text-align: center;
+    mix-blend-mode: screen;
+
+  }
+.name{
+  font-size: large;
+  text-align: center;
+  font-family: 'Allerta';
+  font-weight: 900;
+  color: black;
+
+  }
+/*controllo colori dei link*/
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* visited link */
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* mouse over link */
+a:hover {
+  
+}
+
+/* selected link */
+a:active {
+  text-decoration-color: rgb(0, 217, 255);
+}
