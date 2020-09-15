@@ -21,13 +21,27 @@ img {
     margin-top: 10px;
     display: block;
     color: black;
+    padding: 17px 24px;
+    font-family: 'Allerta';
+    font-weight: 900;
+    font-size: 17px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+/*  .btn-group button {
+    background-color:  #ffc400;;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    color: black;
     padding: 20px 100px;
     font-family: 'Allerta';
     font-weight: 900;
     font-size: 22px;
     border-radius: 5px;
     text-decoration: none;
-  }
+  }*/
 
 .social{
     font-size:36px;
