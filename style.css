@@ -27,6 +27,9 @@ img {
     font-size: 17px;
     border-radius: 5px;
     text-decoration: none;
+    width: 50%;
+    position: relative;
+    left: 22%;
   }
 
 /*  .btn-group button {
