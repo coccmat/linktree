@@ -30,7 +30,7 @@ img {
     position: relative;
     margin: auto;
     margin-top: 5%;
-    box-shadow: 10px 10px 5px #030303;
+    box-shadow: 10px 5px 10px grey;
   }
 
 /*  .btn-group button {
