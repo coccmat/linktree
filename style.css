@@ -18,10 +18,9 @@ img {
 .pill-nav a {
     background-color:  #ffc400;;
     text-align: center;
-    margin-top: 10px;
     display: block;
     color: black;
-    padding: 17px 24px;
+    padding: 3% 7%;
     font-family: 'Allerta';
     font-weight: 900;
     font-size: 17px;
@@ -31,6 +30,7 @@ img {
     position: relative;
     margin: auto;
     margin-top: 5%;
+    box-shadow: 10px 10px 5px #030303;
   }
 
 /*  .btn-group button {
