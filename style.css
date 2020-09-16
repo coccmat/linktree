@@ -27,9 +27,10 @@ img {
     font-size: 17px;
     border-radius: 5px;
     text-decoration: none;
-    width: 50%;
+    width: 65%;
     position: relative;
-    left: 22%;
+    margin: auto;
+    margin-top: 5%;
   }
 
 /*  .btn-group button {
