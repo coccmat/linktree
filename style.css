@@ -30,7 +30,7 @@ img {
     position: relative;
     margin: auto;
     margin-top: 5%;
-    box-shadow: 10px 5px 10px grey;
+    box-shadow: 10px 3px 16px grey;
   }
 
 /*  .btn-group button {
@@ -74,10 +74,6 @@ a:visited {
   color: inherit;
 }
 
-/* mouse over link */
-a:hover {
-  
-}
 
 /* selected link */
 a:active {
